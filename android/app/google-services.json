@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "418999147731",
+    "project_id": "pazar-eats",
+    "storage_bucket": "pazar-eats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418999147731:android:07700f94a341c93ebe8826",
+        "android_client_info": {
+          "package_name": "com.pazar.pazarEats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418999147731-9k92rtuvvunvcm86jlhrh099mfanisai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pazar.pazarEats",
+            "certificate_hash": "2e7fe105f1457eabaa9b73d3a3c7387f3a260061"
+          }
+        },
+        {
+          "client_id": "418999147731-ea4gi185vbbnmclmgt93r8mi7ja5a09c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pazar.pazarEats",
+            "certificate_hash": "27b10bf30fcf6d3218106dda410fee007509dc08"
+          }
+        },
+        {
+          "client_id": "418999147731-mc10f39bjb9n0pi3emm2c1ugmqn7jl2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuvS3R2VHCDqvPfzwyTE6zm17rXXaB2CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418999147731-mc10f39bjb9n0pi3emm2c1ugmqn7jl2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418999147731:android:2d9a3332c855d4c9be8826",
+        "android_client_info": {
+          "package_name": "com.pazar.pazarEats.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418999147731-c8r4gbki1mdf9qv0b90fr13etj2hv4sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pazar.pazarEats.dev",
+            "certificate_hash": "2e7fe105f1457eabaa9b73d3a3c7387f3a260061"
+          }
+        },
+        {
+          "client_id": "418999147731-ogq2mtrbt42durtp8380is662sbo0f8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pazar.pazarEats.dev",
+            "certificate_hash": "27b10bf30fcf6d3218106dda410fee007509dc08"
+          }
+        },
+        {
+          "client_id": "418999147731-mc10f39bjb9n0pi3emm2c1ugmqn7jl2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuvS3R2VHCDqvPfzwyTE6zm17rXXaB2CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418999147731-mc10f39bjb9n0pi3emm2c1ugmqn7jl2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418999147731:android:a6c1def6c6757deabe8826",
+        "android_client_info": {
+          "package_name": "ng.com.pazar.pazar_eats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418999147731-mc10f39bjb9n0pi3emm2c1ugmqn7jl2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuvS3R2VHCDqvPfzwyTE6zm17rXXaB2CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418999147731-mc10f39bjb9n0pi3emm2c1ugmqn7jl2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
